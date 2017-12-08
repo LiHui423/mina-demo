@@ -1,0 +1,8 @@
+<view class="section">
+  <view class="section__title">flex-direction: row</view>
+  <view class="flex-wrp" style="display:flex;flex-direction:row">
+    <view class="flex-item bc_green" style="width:250rpx;height:300px;background:red">1</view>
+    <view class="flex-item bc_red" style="width:250rpx;height:300px;background:green">2</view>
+    <view class="flex-item bc_blue" style="width:250rpx;height:300px;background:blue">3</view>
+  </view>
+</view>
